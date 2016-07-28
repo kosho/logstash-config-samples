@@ -3,5 +3,8 @@
 ## Misc
 
 **misc/reindex.conf**: Perform a reindexing job for Elasticsearch indices
-**misc/performance-metrics.conf**: Show performance metrics while processing data.
+
+**misc/performance-metrics.conf**: Show performance metrics while processing data
+
+**misc/environment-variables.conf**: Pass an environment variable to the Logstash metadata object
 
