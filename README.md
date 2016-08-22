@@ -8,3 +8,6 @@
 
 **misc/environment-variables.conf**: Pass an environment variable to the Logstash metadata object
 
+**misc/export-to-csv.conf**: Export indexed documents to a CSV file
+
+**misc/plain-codec.conf**: Convert EUC-JP inputs by plain codec
